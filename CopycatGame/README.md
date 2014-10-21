@@ -3,6 +3,7 @@ The Copycat Game
 ================
 
 THE COPYCAT GAME
+
 Version 1.0
 
 The copycat game is a creative coding exercice in which 
