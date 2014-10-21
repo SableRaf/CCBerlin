@@ -59,13 +59,10 @@ void draw() {
   pg.translate(width/2,height/2);
 
   // Animation
-
   radius = (sin(frameCount*animationSpeed)+1.0)/2.0*maxRadius;
-  
-  float rotation = 0;//frameCount*0.01;
 
   for(int i=0; i<circleAmount; i++) {
-    float theta = TWO_PI/circleAmount*i + rotation;
+    float theta = TWO_PI/circleAmount*i;
     float xPos = radius*cos(theta);
     float yPos = radius*sin(theta);
     pg.ellipse(xPos, yPos, diameter, diameter);
