@@ -17,6 +17,9 @@
 // for questions. Each team then has 1 hour to code what
 // they think is the best possible copy of the original.
 
+// If you post your results online, please give credit 
+// to the creator of the original.
+
 // The copycat game was created at Creative Code Berlin
 // and first played on September 20th 2014
 
