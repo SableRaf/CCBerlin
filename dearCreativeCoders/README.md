@@ -13,12 +13,15 @@ Wether you consider yourself to be a beginner or an expert, a theorist or a prac
 
 Ps: Though the main focus of this post is to address the gender bias, it goes without saying that our invitation extends to anyone who feels underrepresented in Art & Tech events.
 
--- 
+
 **The Creative Code Berlin team**  
 _Raphaël de Courville_  
 _Rachel Uwa_  
 _Abe Pazos_  
 _Ramin Soleymani_  
+
+
+-- 
 
 _Event page: http://www.meetup.com/opentechschool-berlin/events/220188555/_
 
