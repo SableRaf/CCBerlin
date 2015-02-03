@@ -14,14 +14,14 @@ Wether you consider yourself to be a beginner or an expert, a theorist or a prac
 Ps: Though the main focus of this post is to address the gender bias, it goes without saying that our invitation extends to anyone who feels underrepresented in Art & Tech events.
 
 -- 
-The Creative Code Berlin team  
-Raphaël de Courville  
-Rachel Uwa  
-Abe Pazos  
-Ramin Soleymani  
+**The Creative Code Berlin team**  
+_Raphaël de Courville_  
+_Rachel Uwa_  
+_Abe Pazos_  
+_Ramin Soleymani_  
 
-Event page: http://www.meetup.com/opentechschool-berlin/events/220188555/
+_Event page: http://www.meetup.com/opentechschool-berlin/events/220188555/_
 
-The Creative Coding Stammtisch is a monthly event taking place every first Friday of the month at co.up, Adalbertstrasse 7-8 in Berlin (Kreuzberg). 
+_The Creative Coding Stammtisch is a monthly event taking place every first Friday of the month at co.up, Adalbertstrasse 7-8 in Berlin (Kreuzberg)._
 
-Creative Code Berlin operates under the umbrella of Open Tech School, a movement aiming to offer free tech education to technology enthusiasts of all genders, backgrounds, and experience levels.
+_Creative Code Berlin operates under the umbrella of Open Tech School, a movement aiming to offer free tech education to technology enthusiasts of all genders, backgrounds, and experience levels._
