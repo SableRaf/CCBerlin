@@ -1,4 +1,4 @@
-## Dear creative coders,
+### Dear creative coders,
 
 Our next Berlin meetup — the fifteenth Creative Coding Stammtisch — is coming up this Friday night at co.up. It is is a friendly gathering of artists, designers, students, academics, researchers and anyone interested in the use of technology as a medium. It’s a place to grow and share your passion for generative design, new media, net.art, etc. Everyone is welcome and free to present a project, propose a topic for discussion or even sit back and enjoy the conversation.
 
@@ -14,11 +14,11 @@ Wether you consider yourself to be a beginner or an expert, a theorist or a prac
 Ps: Though the main focus of this post is to address the gender bias, it goes without saying that our invitation extends to anyone who feels underrepresented in Art & Tech events.
 
 -- 
-The Creative Code Berlin team
-Raphaël de Courville
-Rachel Uwa
-Abe Pazos
-Ramin Soleymani
+The Creative Code Berlin team  
+Raphaël de Courville  
+Rachel Uwa  
+Abe Pazos  
+Ramin Soleymani  
 
 Event page: http://www.meetup.com/opentechschool-berlin/events/220188555/
 
