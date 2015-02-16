@@ -9,7 +9,7 @@ If a participant engages in harassing behavior, the organizers may take any acti
  
 Organizers will be happy to help participants contact security or local police, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance. 
  
-**Exception:** Artwork, discussion, or content related to sex, pornography, discriminatory language, or similar can be presented on condition that it meets all of the following criteria: (a) the organizers have specifically granted permission in writing, (b) it is necessary to the topic of discussion and no alternative exists, (c) it is presented in a respectful manner, especially towards women and LGBTQIA people, (d) attendees are warned in advance and respectfully given ample warning and opportunity to leave beforehand. This exception specifically does not allow use of gratuitous sexual images as attention-getting devices or unnecessary examples. 
+**Exception:** Artwork, discussion, or content related to sex, pornography, discriminatory language, or similar can be allowed on condition that it meets all of the following criteria: (a) the organizers have specifically granted permission in writing, (b) it is necessary to the topic of discussion and no alternative exists, (c) it is presented in a respectful manner, especially towards women and LGBTQIA people, (d) attendees are warned in advance and respectfully given ample warning and opportunity to leave beforehand. This exception specifically does not allow use of gratuitous sexual images as attention-getting devices or unnecessary examples. 
  
 We expect participants to follow these rules at all our gatherings and associated social events. 
 
