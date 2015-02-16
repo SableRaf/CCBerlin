@@ -16,7 +16,7 @@ We expect participants to follow these rules at all our gatherings and associate
 _This anti-harassment policy is based on the [example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), created by the Ada Initiative and other volunteers._
 
 ### Contacts
-_Raphaël de Courville: raphael.de.courville@gmail.com_ 
-_Rachel Uwa: rachel.uwa@gmail.com_ 
-_Ramin Soleymani: diskordier@gmail.com_ 
-_Abe Pazos: abe@hamoid.com_ 
+_Raphaël de Courville: raphael.de.courville@gmail.com_  
+_Rachel Uwa: rachel.uwa@gmail.com_  
+_Ramin Soleymani: diskordier@gmail.com_  
+_Abe Pazos: abe@hamoid.com_
