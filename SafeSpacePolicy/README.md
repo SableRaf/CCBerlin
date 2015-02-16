@@ -1,5 +1,5 @@
-Creative Code Berlin Safe Space Policy
-======================================
+Safe Space Policy
+=================
 
 Creative Code Berlin is dedicated to providing a harassment-free creative experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Anyone violating these rules may be sanctioned or expelled from the venue at the discretion of the organizers. 
  
